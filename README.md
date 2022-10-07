@@ -9,5 +9,5 @@
 <body>
   
 - 📫 How to reach me: garrettford123 (at) gmail (dot) com
-- 😄 Pronouns: He/Him
+
 
