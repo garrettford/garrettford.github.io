@@ -1,4 +1,5 @@
 ---
 ---
 
-@import "{{ hacker }}";
+@import "{{ site.theme }}";
+hacker
