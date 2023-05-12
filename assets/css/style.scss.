@@ -2,4 +2,4 @@
 ---
 
 @import "{{ site.theme }}";
-hacker
+pages-themes/hacker@v0.2.0
