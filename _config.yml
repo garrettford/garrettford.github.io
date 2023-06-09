@@ -12,5 +12,4 @@ remote_theme:
 - pages-themes/hacker
 plugins: 
 - jekyll-remote-theme 
-theme: Hacker
-gem "jekyll", "~> 4.0.0"
+
